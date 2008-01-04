@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+
+== LEEDME ==
+
+_Notas para usar esto en condiciones:_
+
+
+=== Details ===
+
+ # *Por cada problema, abrid un nuevo ISSUE*
+ # *Cuando arregleis algo, entrad en el issue, dadle a modificar y poner en estado FIXED, asi evitamos que salga en la lista de tareas pendientes*
+ # *Si vais ha hacer algun cambio critico, como añadir o quitar campos ene le esquema, avisad de ello abriendo un ISSUE, y cuando subais la nueva BD, poneis el ISSUE con algune stado cerrado como  FIXED o cualquier otro.
